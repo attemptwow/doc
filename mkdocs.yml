@@ -1,0 +1,6 @@
+site_name: Attempt - Hyjal
+nav:
+    - Accueil: index.md
+    - Jaina: jaina.md
+    - WA: wa.md
+theme: readthedocs
