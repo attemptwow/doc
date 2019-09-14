@@ -2,5 +2,5 @@ site_name: Attempt - Hyjal
 nav:
     - Accueil: index.md
     - Jaina: jaina.md
-    - WA: wa.md
+    - Queen's Court: court.md
 theme: readthedocs
