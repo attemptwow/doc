@@ -154,14 +154,14 @@ Source : [Timing du boss](https://docs.google.com/spreadsheets/d/17uymuXIYcP7qcg
 `0:00` - Pull & BL, focus Silivaz jusqu'à 35%, on DOT Pashmar
 
 `[x] Schéma 1 ici`
-![Schema1](https://ibb.co/FqCnm7Y)
+![Schema1](https://i.ibb.co/Z17NGTg/schema1.png)
 
 `0:20` - Apparition des étincelles, **focus celle sous Silivaz**
 
 `0:30` - **En formation**, premier soak + charge (joueurs assigneés)
 
 `TANK Schéma 2 ici, on bouge légerement les boss apres la charge vers 0:40`
-![Schema1](https://ibb.co/YtPL1FC)
+![Schema2](https://i.ibb.co/y8dQZc9/schema2.png)
 
 `0:40` - **En formation**, second soak
 
@@ -172,39 +172,38 @@ Source : [Timing du boss](https://docs.google.com/spreadsheets/d/17uymuXIYcP7qcg
 `1:00` - **Répétition de la performance**, on ne cast jamais deux spells similaires l'un après l'autre
 
 `TANK Schema 3 ici, on bouge Silivaz vers 1:05 pour être placé a 1:10`
-![Schema1](https://ibb.co/JCSXxFj)
+![Schema3](https://i.ibb.co/fQTm8Gd/schema3.png)
 
 `1:10` - Charge + Verdicts
 
 `TANK Schema 3 avec charge vers 1:20`
-![Schema1](https://ibb.co/Xyc8B99)
+![Schema3bis](https://i.ibb.co/rbDsPgg/schema3-charge-1-20.png)
 
 `1:25` - On commence à se spread (range 5) car **Isolez-vous** arrive
 
 `TANK Schema 4, après la charge on place les boss`
-![Schema1](https://ibb.co/6WtvFgG)
+![Schema4](https://i.ibb.co/tJ2ZD8n/schema4.png)
 
 `1:30` - **Isolez-vous**
 
 `TANK Schema 5, on bouge legerement pour être placé a 1:35`
-![Schema1](https://ibb.co/VDjgtFB)
+![Schema5](https://i.ibb.co/gwjS30g/schema5.png)
 
 `1:40` - **Onde violente** de Pashmar
 
 `TANK Schema 6, vers 1:45 on bouge Pashmar pour être placé a 1:50`
-![Schema1](https://ibb.co/hBwLrvy)
+![Schema6](https://i.ibb.co/Ht3BRQV/schema6.png)
 
 `1:52` - Charge (avec le standalone), SOLO soak avec ST x2 ou immune
 
 `1:53` - Etincelles
 
 `/!\ TANK On bouge à 3 stacks, faut envoyer de la lourde niveau CD heal`
-![Schema1](xxxx)
 
 `2:00` - Peine isolée (On bouge à 3 stacks idéalement sauf cas spéciaux)
 
 `TANK Schema 7, on bouge vers 2:08 pour être placé vers 2:13`
-![Schema1](https://ibb.co/Mc0wRWk)
+![Schema7](https://i.ibb.co/fkw6CBd/schema7.png)
 
 `2:30` - Obéissez ou souffrez
 
