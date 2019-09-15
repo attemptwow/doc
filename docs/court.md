@@ -151,25 +151,64 @@ Déroulement du combat
 
 Source : [Timing du boss](https://docs.google.com/spreadsheets/d/17uymuXIYcP7qcgxa7XX1fTgJ7ZM0_jwk7BhVyEQgaA8/edit#gid=0)
 
-`0:00` : Pull, BL
+`0:00` - Pull & BL, focus Silivaz jusqu'à 35%, on DOT Pashmar
 
-![Pull](https://i.ibb.co/rygMf2B/pict1.png)
+`[x] Schéma 1 ici`
+![Schema1](https://ibb.co/FqCnm7Y)
 
-`0:20` : Apparition des étincelles, il faut burst la première étincelle à coté de Silivaz et nous devrons tuer la seconde avant **Répétition de la perfomance** à `1:00`.
+`0:20` - Apparition des étincelles, **focus celle sous Silivaz**
 
-`0:30` : EN FORMATION (soaks)
+`0:30` - **En formation**, premier soak + charge (joueurs assigneés)
 
-`0:30` : 1er soak + charge avec le raid (il y aura des attribs)
+`TANK Schéma 2 ici, on bouge légerement les boss apres la charge vers 0:40`
+![Schema1](https://ibb.co/YtPL1FC)
 
-`0:40` : 2ième soak
+`0:40` - **En formation**, second soak
 
-`0:50` : 3ième soak
+`0:50` - **En formation**, troisième soak
 
-`0:55` : Eruption zélée
+`0:55` - **Eruption zélée**, le raid se pack sous la bulle de Silivaz, on full heal le tank de Pashmar et **on tue la deuxième étincelle**
 
-`WORK IN PROGRESS`
+`1:00` - **Répétition de la performance**, on ne cast jamais deux spells similaires l'un après l'autre
 
-```
-CA ARRIVE DEMAIN SOIR ! Pour l'instant je n'ai fais que résumer le guide de Buds mais vous trouverez ici des plans de la zone de combat pour chaque timing du combat ;) Le principal de la strat sera ici! Je file dodo.
-```
+`TANK Schema 3 ici, on bouge Silivaz vers 1:05 pour être placé a 1:10`
+![Schema1](https://ibb.co/JCSXxFj)
+
+`1:10` - Charge + Verdicts
+
+`TANK Schema 3 avec charge vers 1:20`
+![Schema1](https://ibb.co/Xyc8B99)
+
+`1:25` - On commence à se spread (range 5) car **Isolez-vous** arrive
+
+`TANK Schema 4, après la charge on place les boss`
+![Schema1](https://ibb.co/6WtvFgG)
+
+`1:30` - **Isolez-vous**
+
+`TANK Schema 5, on bouge legerement pour être placé a 1:35`
+![Schema1](https://ibb.co/VDjgtFB)
+
+`1:40` - **Onde violente** de Pashmar
+
+`TANK Schema 6, vers 1:45 on bouge Pashmar pour être placé a 1:50`
+![Schema1](https://ibb.co/hBwLrvy)
+
+`1:52` - Charge (avec le standalone), SOLO soak avec ST x2 ou immune
+
+`1:53` - Etincelles
+
+`/!\ TANK On bouge à 3 stacks, faut envoyer de la lourde niveau CD heal`
+![Schema1](xxxx)
+
+`2:00` - Peine isolée (On bouge à 3 stacks idéalement sauf cas spéciaux)
+
+`TANK Schema 7, on bouge vers 2:08 pour être placé vers 2:13`
+![Schema1](https://ibb.co/Mc0wRWk)
+
+`2:30` - Obéissez ou souffrez
+
+`2:32` - Charge
+
+`2:43` - Eruption zélée, on ST le tank de Pashmar
 
